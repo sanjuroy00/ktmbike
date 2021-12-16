@@ -1,2 +1,1 @@
-bike condition and speed
-cost is below 20,000
+bike condition and speed 
